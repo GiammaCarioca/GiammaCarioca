@@ -1,5 +1,10 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Giammattey AKA Giamma.</h1>
 
+<div align="center" >
+  <img width="50%" src="https://res.cloudinary.com/italianorio/image/upload/v1636456935/README/tweet_g2npok.png" />
+  <img width="50%" src="https://res.cloudinary.com/italianorio/image/upload/v1636456935/README/clapback_tozv8e.png" />
+</div>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,7 +16,9 @@
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" >
-  <img width="50%" src="https://res.cloudinary.com/italianorio/image/upload/v1636456935/README/tweet_g2npok.png" />
-  <img width="50%" src="https://res.cloudinary.com/italianorio/image/upload/v1636456935/README/clapback_tozv8e.png" />
-</div>
+#### 🔗 Connect with me:
+
+<p align="left">
+<a href="https://twitter.com/heygiammattey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heygiammattey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thiago-giammattey-a4b7169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago-giammattey" height="30" width="40" /></a>
+</p>
