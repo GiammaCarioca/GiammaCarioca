@@ -1,10 +1,6 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Giammattey AKA Giamma.</h1>
 
 <!--
-**GiammaCarioca/GiammaCarioca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center" >
+  <img width="50%" src="https://res.cloudinary.com/italianorio/image/upload/v1636456935/README/tweet_g2npok.png" />
+  <img width="50%" src="https://res.cloudinary.com/italianorio/image/upload/v1636456935/README/clapback_tozv8e.png" />
+</div>
