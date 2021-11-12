@@ -1,8 +1,8 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Hey, I'm Thiago Giammattey aka Giamma.</h1>
 
-<div align="center" >
-  <img width="80%" src="https://res.cloudinary.com/italianorio/image/upload/v1636456935/README/tweet_g2npok.png" />
-  <img width="80%" src="https://res.cloudinary.com/italianorio/image/upload/v1636456935/README/clapback_tozv8e.png" />
+<div>
+	<img width="50%" src="https://res.cloudinary.com/italianorio/image/upload/v1636456935/README/tweet_g2npok.png" />
+	<img width="50%" src="https://res.cloudinary.com/italianorio/image/upload/v1636456935/README/clapback_tozv8e.png" />
 </div>
 
 <br>
@@ -13,14 +13,19 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## 🙋 &nbsp;About Me
+
+- 🌱 I’m currently learning Python, TypeScript
+- 📫 How to reach me: *hey@giammattey.com*
+- 🌈 Pronouns: [he/him/his/himself](https://pronoun.is/he)
+- ⚡ Fun fact:
+
+![I teach Italian](https://c.tenor.com/XS_Pqgr_WdkAAAAC/stupid-speak.gif)
 
 ## 🛠️ &nbsp;Tech Stack (Languages, Frameworks, Tools)
 
@@ -58,8 +63,8 @@ Here are some ideas to get you started:
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=GiammaCarioca&show_icons=true&theme=vision-friendly-dark" alt="Giamma's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiammaCarioca&layout=compact&theme=vision-friendly-dark" alt="Giamma's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=GiammaCarioca&show_icons=true&theme=github_dark" alt="Giamma's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiammaCarioca&hide=css,html,liquid&layout=compact&langs_count=4&theme=github_dark" alt="Giamma's most languages"/>
 </p>
 
 ## 🔗 Connect with me:
